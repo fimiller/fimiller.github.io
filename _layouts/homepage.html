@@ -41,6 +41,10 @@
         {% if site.email %}
         <br>
         {{ site.email }}
+		{% if site.cv %}
+			<a target="_blank" href="{{site.cv}}">CV</a>
+        <br>
+        {% endif %}
         <br>
         <br>
         {% endif %}
