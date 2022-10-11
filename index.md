@@ -32,7 +32,7 @@ I will be graduating in May 2023.
 - Larson DM, Bungula W, Stockdill A, McKean C, Lee A, **Miller F**, Davis K., in review, U.S. Geological Survey and PLOS Computational Biology. Quantifying ecosystem states and state transitions of the Upper Mississippi River using topological data analysis.  
 - Larson DM, Bungula W, Lee A, Stockdill A, McKean C, **Miller F**, Davis K, Erickson R, Hlavecek E. in review, U.S. Geological Survey and Limnology and Oceanography: Methods. Reconstructing missing data by comparing common interpolation techniques: applications for long-term water quality data and beyond.  
 
-# Additinal Research Projects 
+# Additional Research Projects 
 
 - S Sturm, R Kumar, **F Miller** Deep Learning for Reflected Backwards Stochastic Differential Equations. Expected to produce manuscript.
 
