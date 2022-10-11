@@ -38,18 +38,17 @@
         <br>
         {% endif %}
         {{ site.affiliation }}
-        {% if site.email %}
-        <br>
-        {{ site.email }}
-		{% if site.cv %} 
+        {% if site.cv %} 
 		<br>
 			<a target="_blank" href="{{site.cv}}">CV</a>
 			<a target="_blank" href="https://www.linkedin.com/in/frederick-miller-769b4917a/">LinkedIn</a>
-			<br>
-			         
-			<br>
+			
         <br>
         {% endif %}
+		{% if site.email %}
+        <br>
+        {{ site.email }}
+		
         <br>
         <br>
         {% endif %}
