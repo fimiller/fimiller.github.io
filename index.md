@@ -4,47 +4,67 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a senior undergraduate student at Worcester Polytechnic Institute, majoring in Mathematical Sciences and Data Science. I am applying to PhD programs to study mathematical optimization.
 
-## Research Interests
+## Education
+I will be graduating in May 2023.
+- Bachelor of Science in Mathematical Sciences, Worcester Polytechnic Institute. GPA: 3.97/4.0
+- Bachelor of Science in Data Science, Worcester Polytechnic Institute. GPA: 3.97/4.0
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+## Research Interests 
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Mathematical Optimization:** Integer programming, Fractional Programming, Public Sector Operations Research
+- **Stochastic Analysis:** Mathematical Finance, Backwards Stochastic Differential Equations
+- **Machine Learning:** Neural networks as functional approximators 
 
 ## Publications
+- Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving. ELife, 10, e70873. [Link](https://doi.org/10.7554/eLife.70873)
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+# Selected Working Papers
+- F. Miller, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, "Optimizing the Benefit to Cost Ratio for Public Sector Decision Making," Target Outlet: Management Science, Special Issue on The Human-Algorithm Connection [Link to Call for Papers](https://pubsonline.informs.org/page/mnsc/calls-for-papers)
+- Larson DM, Bungula W, Stockdill A, McKean C, Lee A, **Miller F**, Davis K., in review, U.S. Geological Survey and PLOS Computational Biology. Quantifying ecosystem states and state transitions of the Upper Mississippi River using topological data analysis.  
+- Larson DM, Bungula W, Lee A, Stockdill A, McKean C, **Miller F**, Davis K, Erickson R, Hlavecek E. in review, U.S. Geological Survey and Limnology and Oceanography: Methods. Reconstructing missing data by comparing common interpolation techniques: applications for long-term water quality data and beyond.  
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+# Additinal Research Projects 
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+- S Sturm, R Kumar, **F Miller** Deep Learning for Reflected Backwards Stochastic Differential Equations. Expected to produce manuscript.
 
-## Services
+## Presentations 
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- 2022 INFORMS Annual Meeting, October 2022
+	- Optimizing The Benefit-to-Cost Ratio For Effective Capacity Deployment For New York City's Homeless Youth Shelter System
+	- Awarded INFORMS Scholarship to be funded and attend the conference and attend special sessions
+- WPI PhD Student Seminar @ WPI, February 2022
+	- A brief survey of operations research and optimization
+- Math REU Poster Session @ University of Wisconsin - La Crosse (UWL), August 2021
+	- Research poster to members of UWL Math & Biology Departments
+- WPI Math Club Sunday Night Seminar - April 2020
+	- Introductory combinatorics to members of WPI Math club
+- WPI Math Department Open House - April 2021, October 2021, April 2022
+	- Mathematical Sciences undergraduate program at WPI with prospective students
+
+## Awards 
+
+- [INFORMS Scholarship](https://www.informs.org/Recognizing-Excellence/Scholarships/INFORMS-Scholarship)
+- Funded to attend [SIAM Summar School on Financial Analytics](https://siam2022.gssi.it/)
+- WPI Presidential Scholarship (2019- Present)
+- Dean's List, WPI, All Semesters
+
+## Teaching Experience 
+I serve as Peer Learning Assistant (PLA) for the Mathematical Sciences Department at WPI. This entails:
+1. Manage a section of 20 to 35 students in mathematical sciences courses at WPI
+2. Run a weekly discussion section reviewing lecture content. 
+3. Grade Homework & exams for the section working with a Professor and other PLAs and Teaching Assistants.
+*Courses Taught:*
+- MA 1023 - Calculus III, A Term 2020, A Term 2021, D Term 2022
+- MA 2071 - Matrices & Linear Algebra I - B Term 2020, D Term 2021
+- MA 2621 - Probability for Applications, C Term 2022
+- MA 3231 - Linear Programming, A Term 2022
+
+## Leadership
+President, WPI Math Club (April 2020 - Present)
+Prepare meetings for WPI’s math club by finding an activity for our weekly math hour. Normally this consists of a fun puzzle with a mathematical bend that the club discusses and tries to solve.
+President, WPI Pi Mu Epsilon Massachusetts Alpha Math Honors Society (May 2022 - Present)
+Vice President January 2022 - May 2022, Member April 2021 - January 2022
+
