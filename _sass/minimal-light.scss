@@ -10,10 +10,6 @@ body {
   margin:0
 }
 
-.social-icons {
-	margin-top: 3em;
-}
-
 .social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
 
@@ -320,6 +316,7 @@ hr {
 }
 
 footer {
+  padding-top:3em;
   width:220px;
   float:left;
   position:fixed;
