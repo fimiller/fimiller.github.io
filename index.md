@@ -10,10 +10,12 @@ I am a senior undergraduate student at Worcester Polytechnic Institute, majoring
 I will be graduating in May 2023.
 - Bachelor of Science in Mathematical Sciences, Worcester Polytechnic Institute. GPA: 3.97/4.0
 - Bachelor of Science in Data Science, Worcester Polytechnic Institute. GPA: 3.97/4.0
+
 *Selected Courses:*
-- Computer Science - Accelerated Introduction to Program Design, Object Oriented Design Concepts, Database Systems I, Analysis of Algorithms, Machine Learning*
-- Mathematics - Matrices and Linear Algebra II, Combinatorics, Linear Programming, Applied Statistics I & II, Probability Theory, Convex Optimization, Top Algorithms in Applied Mathematics, Numerical Methods for Linear and Nonlinear Systems, Data Analytics and Statistical Learning,  Computational Optimization, Portfolio Valuation and Risk Management (Graduate), Lebesgue Measure and Integration (Graduate)\*, Linear Algebra (Graduate)\*
-- Data Science - Introduction to Data Science, Data Science II: Modeling and Data Analysis, Data III: Computational Data Intelligence\*, Advanced Prescriptive Analytics
+- **Computer Science** - Accelerated Introduction to Program Design, Object Oriented Design Concepts, Database Systems I, Analysis of Algorithms, Machine Learning*
+- **Mathematics** - Matrices and Linear Algebra II, Combinatorics, Linear Programming, Applied Statistics I & II, Probability Theory, Convex Optimization, Top Algorithms in Applied Mathematics, Numerical Methods for Linear and Nonlinear Systems, Data Analytics and Statistical Learning,  Computational Optimization, Portfolio Valuation and Risk Management (Graduate), Lebesgue Measure and Integration (Graduate)\*, Linear Algebra (Graduate)\*
+- **Data Science** - Introduction to Data Science, Data Science II: Modeling and Data Analysis, Data III: Computational Data Intelligence\*, Advanced Prescriptive Analytics
+
 \* = To be completed by Summer 2023
 
 ## Research Interests 
