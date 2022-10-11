@@ -30,14 +30,15 @@
         {% if site.avatar %}
         <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
         {% endif %}
-		{% if site.cv %} 
+		
+        <h1>{{ site.title }}</h1> 
+        {% if site.cv %} 
 		<br>
 			<a target="_blank" href="{{site.cv}}">CV</a>
 			<a target="_blank" href="https://www.linkedin.com/in/frederick-miller-769b4917a/">LinkedIn</a>
         <br>
         {% endif %}
-        <h1>{{ site.title }}</h1> 
-        {% if site.position %}
+		{% if site.position %}
         {{ site.position }}
         <br>
         {% endif %}
