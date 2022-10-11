@@ -63,8 +63,8 @@ I serve as Peer Learning Assistant (PLA) for the Mathematical Sciences Departmen
 - MA 3231 - Linear Programming, A Term 2022
 
 ## Leadership
-President, WPI Math Club (April 2020 - Present)
-Prepare meetings for WPI’s math club by finding an activity for our weekly math hour. Normally this consists of a fun puzzle with a mathematical bend that the club discusses and tries to solve.
-President, WPI Pi Mu Epsilon Massachusetts Alpha Math Honors Society (May 2022 - Present)
-Vice President January 2022 - May 2022, Member April 2021 - January 2022
+- President, WPI Math Club (April 2020 - Present)
+	- Prepare meetings for WPI’s math club by finding an activity for our weekly math hour. Normally this consists of a fun puzzle with a mathematical bend that the club discusses and tries to solve.
+- President, WPI Pi Mu Epsilon Massachusetts Alpha Math Honors Society (May 2022 - Present)
+	 - Vice President January 2022 - May 2022, Member April 2021 - January 2022
 
