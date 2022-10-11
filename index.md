@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate student at Worcester Polytechnic Institute, majoring in Mathematical Sciences and Data Science. I am interested in exploring the depths of mathematical optimization. I am applying to PhD programs to start in Fall 2023.
+I am a senior undergraduate student at Worcester Polytechnic Institute, majoring in Mathematical Sciences and Data Science. I am applying to PhD programs to start in Fall 2023. I am interested in exploring the depths of mathematical optimization. 
 
 ## Education
 I will be graduating in May 2023.
@@ -12,9 +12,9 @@ I will be graduating in May 2023.
 - Bachelor of Science in Data Science, Worcester Polytechnic Institute. GPA: 3.97/4.0
 
 *Selected Courses:*
-- **Mathematics** - Computational Optimization, Convex Optimization, Linear Programming, Data Analytics and Statistical Learning, Top Algorithms in Applied Mathematics, Numerical Methods for Linear and Nonlinear Systems, Probability Theory,  Linear Algebra (Graduate)\*, Lebesgue Measure and Integration (Graduate)\*, Portfolio Valuation and Risk Management (Graduate), Matrices and Linear Algebra II, Combinatorics,Applied Statistics I & II
+- **Mathematics** - Computational Optimization, Convex Optimization, Linear Programming, Data Analytics and Statistical Learning, Top Algorithms in Applied Mathematics, Numerical Methods for Linear and Nonlinear Systems, Probability Theory,  Linear Algebra (Graduate)\*, Lebesgue Measure and Integration (Graduate)\*, Portfolio Valuation and Risk Management (Graduate), Matrices and Linear Algebra II, Combinatorics, Applied Statistics I & II
 - **Computer Science** -Analysis of Algorithms, Machine Learning\*, Database Systems I, Accelerated Introduction to Program Design, Object Oriented Design Concepts
-- **Data Science** -  Advanced Prescriptive Analytics, Modeling and Data Analysis, Introduction to Data Science, Computational Data Intelligence\*,
+- **Data Science** -  Advanced Prescriptive Analytics, Modeling and Data Analysis, Introduction to Data Science, Computational Data Intelligence\*
 
 \* = To be completed by Summer 2023
 
@@ -23,6 +23,7 @@ I will be graduating in May 2023.
 - **Mathematical Optimization:** Integer programming, Fractional Programming, Gradient Descent Algorithms
 - **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
 - **Machine Learning:** Neural networks as functional approximators 
+
 Domains: Public Sector Operations Research
 
 ## Publications
