@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate student at Worcester Polytechnic Institute, majoring in Mathematical Sciences and Data Science. I am applying to PhD programs to start in Fall 2023. I am interested in exploring the depths of mathematical optimization.
+I am a prospective PhD student at Worcester Polytechnic Institute, majoring in Mathematical Sciences and Data Science. I am applying to PhD programs to start in Fall 2023. I am interested in exploring the depths of mathematical optimization. Outside of mathematics, I like watching movies and going hiking through New England.
 
 ## Education
 I will be graduating in May 2023.
@@ -24,10 +24,11 @@ I will be graduating in May 2023.
 - **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
 - **Machine Learning:** Neural networks as functional approximators
 
-Domains: Public Sector Operations Research
+### Domains: 
+- Public Sector Operations Research
 
 ## Publications
-- Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving. ELife, 10, e70873. [Link](https://doi.org/10.7554/eLife.70873)
+- Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving. *ELife*, 10, e70873. [Link](https://doi.org/10.7554/eLife.70873)
 
 # Selected Working Papers
 - **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, "Optimizing the Benefit to Cost Ratio for Public Sector Decision Making," **Target Outlet**: *Management Science*, Special Issue on The Human-Algorithm Connection [Link to Call for Papers](https://pubsonline.informs.org/page/mnsc/calls-for-papers)
