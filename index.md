@@ -29,7 +29,7 @@ I will be graduating in May 2023.
 
 ## Publications
 - Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving. *ELife*, 10, e70873. [Link](https://doi.org/10.7554/eLife.70873)
-- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, "[Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534)," **Target Outlet**: *Management Science*, Special Issue on The Human-Algorithm Connection [Link to Call for Papers](https://pubsonline.informs.org/page/mnsc/calls-for-papers)
+- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, "[Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534)," preprint
 
 # Under Review
 - Larson DM, Bungula W, Stockdill A, McKean C, Lee A, **Miller, F. I.**, Davis K., in review, U.S. Geological Survey and *PLOS Computational Biology*. Quantifying ecosystem states and state transitions of the Upper Mississippi River using topological data analysis.  
