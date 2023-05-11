@@ -71,7 +71,7 @@ I am an incoming PhD Student at Northeastern University Department of Mathematic
 	- Awarded for outstanding performance and making valuable contributions to the WPI Community
 - [INFORMS Scholarship Award](https://www.informs.org/Recognizing-Excellence/Scholarships/INFORMS-Scholarship): Funding to travel and present at the INFORMS Annual Meeting, 2022
 - Full funding to attend [SIAM Summer School on Financial Analytics](https://siam2022.gssi.it/) in L'Aquila, Italy
-- WPI Presidential Scholarship (2019- Present)
+- WPI Presidential Scholarship (2019 - 2023)
 - Dean's List, WPI
 
 ## Teaching Experience
