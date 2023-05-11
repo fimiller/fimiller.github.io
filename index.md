@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am an incoming PhD Student at Northeastern University Department of Mathematics, planning the Northeastern University Robust Autonomy Lab (NEURAL) under Professor David Rosen in Fall 2023. I am interested in exploring the depths of mathematical optimization and it's applications. Outside of mathematics, I like watching movies and going hiking through New England.
+I am an incoming PhD Student at Northeastern University Department of Mathematics, planning the Northeastern University Robust Autonomy Lab (NEURAL) under Professor David Rosen in Fall 2023. I am interested in exploring the depths of mathematical optimization and its applications. Outside of mathematics, I like watching movies and going hiking through New England.
 
 ## Education
 - PhD in Mathematics, Northeastern University. Fall 2023 - Present
 
 - Bachelor of Science in Mathematical Sciences, Worcester Polytechnic Institute (WPI), August 2019 - May 2023. GPA: 3.92/4.0
 - Bachelor of Science in Data Science, Worcester Polytechnic Institute (WPI), August 2019 - May 2023. GPA: 3.92/4.0
-	- Major Qualifying Project (MQP) (Senior Thesis): ["Deep Learning for Reflected Backwards Stochastic Differential Equations"](Deep Learning for Reflected Backwards Stochastic Differential Equations), Advisor: Stephan Sturm. Awarded MQP Departmental Honorable Mention
+	- Major Qualifying Project (MQP) (Senior Thesis): ["Deep Learning for Reflected Backwards Stochastic Differential Equations"](https://digital.wpi.edu/concern/student_works/js956j933?locale=en), Advisor: Stephan Sturm. Awarded MQP Departmental Honorable Mention
 
 
 
