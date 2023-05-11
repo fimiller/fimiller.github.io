@@ -4,19 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am a prospective PhD student at Worcester Polytechnic Institute, majoring in Mathematical Sciences and Data Science. I am applying to PhD programs to start in Fall 2023. I am interested in exploring the depths of mathematical optimization. Outside of mathematics, I like watching movies and going hiking throughout New England.
+I am an incoming PhD Student at Northeastern University Department of Mathematics, planning the Northeastern University Robust Autonomy Lab (NEURAL) under Professor David Rosen in Fall 2023. I am interested in exploring the depths of mathematical optimization and it's applications. Outside of mathematics, I like watching movies and going hiking through New England.
 
 ## Education
-I will be graduating in May 2023.
-- Bachelor of Science in Mathematical Sciences, Worcester Polytechnic Institute. GPA: 3.91/4.0
-- Bachelor of Science in Data Science, Worcester Polytechnic Institute. GPA: 3.91/4.0
+- PhD in Mathematics, Northeastern University. Fall 2023 - Present
+
+- Bachelor of Science in Mathematical Sciences, Worcester Polytechnic Institute (WPI), August 2019 - May 2023. GPA: 3.92/4.0
+- Bachelor of Science in Data Science, Worcester Polytechnic Institute (WPI), August 2019 - May 2023. GPA: 3.92/4.0
+	- Major Qualifying Project (MQP) (Senior Thesis): ["Deep Learning for Reflected Backwards Stochastic Differential Equations"](Deep Learning for Reflected Backwards Stochastic Differential Equations), Advisor: Stephan Sturm. Awarded MQP Departmental Honorable Mention
+
+
+
 
 *Selected Courses:*
-- **Mathematics** - Computational Optimization, Convex Optimization, Linear Programming, Data Analytics and Statistical Learning, Top Algorithms in Applied Mathematics, Numerical Methods for Linear and Nonlinear Systems, Probability Theory,  Linear Algebra (Graduate), Lebesgue Measure and Integration (Graduate), Portfolio Valuation and Risk Management (Graduate), Matrices and Linear Algebra II, Combinatorics, Applied Statistics I & II
-- **Computer Science** -Analysis of Algorithms, Machine Learning\*, Database Systems I, Accelerated Introduction to Program Design, Object Oriented Design Concepts
-- **Data Science** -  Advanced Prescriptive Analytics, Modeling and Data Analysis, Introduction to Data Science, Computational Data Intelligence\*
 
-\* = To be completed by Summer 2023
+### As an undergraduate at Worcester Polytechnic Institute:
+
+- **Mathematics** - Computational Optimization, Convex Optimization, Linear Programming, Data Analytics and Statistical Learning, Top Algorithms in Applied Mathematics, Numerical Methods for Linear and Nonlinear Systems, Probability Theory,  Linear Algebra (Graduate), Lebesgue Measure and Integration (Graduate), Portfolio Valuation and Risk Management (Graduate), Matrices and Linear Algebra II, Combinatorics, Applied Statistics I & II
+- **Computer Science** -Analysis of Algorithms, Machine Learning, Database Systems I, Accelerated Introduction to Program Design, Object Oriented Design Concepts
+- **Data Science** -  Advanced Prescriptive Analytics, Modeling and Data Analysis, Introduction to Data Science, Computational Data Intelligence
+
 
 ## Research Interests
 
@@ -24,31 +31,31 @@ I will be graduating in May 2023.
 - **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
 - **Machine Learning:** Neural networks as functional approximators
 
-### Domains:
-- Public Sector Operations Research
 
 ## Publications
 - Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving. *ELife*, 10, e70873. [Link](https://doi.org/10.7554/eLife.70873)
+- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, "[Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534),"
 
 # Under Review
 - Larson DM, Bungula W, Stockdill A, McKean C, Lee A, **Miller, F. I.**, Davis K., in review, U.S. Geological Survey and *PLOS Computational Biology*. Quantifying ecosystem states and state transitions of the Upper Mississippi River using topological data analysis.  
 - Larson DM, Bungula W, Lee A, Stockdill A, McKean C, **Miller, F. I.**, Davis K, Erickson R, Hlavecek E. in review, U.S. Geological Survey and *Limnology and Oceanography: Methods*. Reconstructing missing data by comparing common interpolation techniques: applications for long-term water quality data and beyond.  
 
-# Additional Research Projects
-- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, "[Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534)," preprint. To be submitted.
-- Sturm, S, Kumar, R, **Miller, F. I.** Deep Learning for Reflected Backwards Stochastic Differential Equations. Expected to produce manuscript.
 
 ## Presentations
 
-- WPI PhD Student Seminar @ WPI, January 2022
-	- Modern Portfolio Theory From Scratch
+- Mathematical Finance and Stochastic Analysis Seminar @ WPI
+	- [Risk Indifference Pricing for American Put Options](https://www.wpi.edu/news/calendar/events/mathematical-sciences-department-financial-math-seminar-frederick-miller-wpi-student-risk)
+- WPI PhD Student Seminar, January 2023
+	- [Modern Portfolio Theory from Scratch](https://sites.google.com/view/wpi-math-studentseminar/past-talks?authuser=0)
+- 2023 Joint Mathematics Meeting, January 2023
+ 	- [Optimizing the Benefit-to-Cost Ratio for Public Sector Decision Making](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/22848)
 - 2022 INFORMS Annual Meeting, October 2022
-	- Optimizing The Benefit-to-Cost Ratio For Effective Capacity Deployment For New York City's Homeless Youth Shelter System
-	- Awarded INFORMS Scholarship to be funded and attend the conference and attend special sessions
+	- [Optimizing The Benefit-to-Cost Ratio For Effective Capacity Deployment For New York City's Homeless Youth Shelter System](https://www.abstractsonline.com/pp8/#!/10693/presentation/6979)
+	- Awarded [INFORMS Scholarship](https://www.informs.org/Recognizing-Excellence/Scholarships/INFORMS-Scholarship) to be funded and attend the conference and attend special sessions
 - ARCHES Lab talk @ WPI, August 2022
 	- Preliminary version of "Optimizing The Benefit-to-Cost Ratio For Effective Capacity Deployment For New York City's Homeless Youth Shelter System"
 - WPI PhD Student Seminar @ WPI, February 2022
-	- A brief survey of operations research and optimization
+	- [A brief survey of operations research and optimization](https://sites.google.com/view/wpi-math-studentseminar/past-talks?authuser=0)
 - Math REU Poster Session @ University of Wisconsin - La Crosse (UWL), August 2021
 	- Research poster to members of UWL Math & Biology Departments
 - WPI Math Club Sunday Night Seminar - April 2020
@@ -57,10 +64,14 @@ I will be graduating in May 2023.
 	- Mathematical Sciences undergraduate program at WPI with prospective students
 
 ## Awards
-
+- [WPI Peer Learning Assistant of the Year 2023](https://www.wpi.edu/news/announcements/peer-learning-assistants-honored-student-recognition-awards-ceremony-0#:~:text=The%202023%20Peer%20Learning%20Assistant,Sciences%20Department%20for%20several%20years.)
+	- Also awarded Peer Learning Assistant of the year within the Mathematical Sciences Department
+- WPI MQP Award Departmental Honorable Mention for Senior Thesis
+- WPI Senior Math Award 2023
+	- Awarded for outstanding performance and making valuable contributions to the WPI Community
 - [INFORMS Scholarship Award](https://www.informs.org/Recognizing-Excellence/Scholarships/INFORMS-Scholarship): Funding to travel and present at the INFORMS Annual Meeting, 2022
 - Full funding to attend [SIAM Summer School on Financial Analytics](https://siam2022.gssi.it/) in L'Aquila, Italy
-- WPI Presidential Scholarship (2019- 2023)
+- WPI Presidential Scholarship (2019- Present)
 - Dean's List, WPI
 
 ## Teaching Experience
@@ -71,14 +82,14 @@ I serve as Peer Learning Assistant (PLA) for the Mathematical Sciences Departmen
 
 *Courses PLA'd:*
 - MA 3231 - Linear Programming, A Term 2022
-- MA 2621 - Probability for Applications, C Term 2022
-- MA 2072 - Accelerated Matrices & Linear Algebra I - C Term 2023
+- MA 2621 - Probability for Applications, C Term 2022, D Term 2023
 - MA 2071 - Matrices & Linear Algebra I - B Term 2020, D Term 2021
-- MA 1023 - Calculus III, A Term 2020, A Term 2021, D Term 2022, B Term 2023
+- MA 2072: Accelerated Matrices & Linear Algebra I - C Term 2023
+- MA 1023 - Calculus III, A Term 2020, A Term 2021, D Term 2022, B Term 2022
 
 
 ## Leadership
-- President, WPI Math Club (April 2020 - January 2023)
+- President, WPI Math Club (April 2020 - March 2023)
 	- Lead meetings for WPI’s math club by finding an activity for our weekly math hour. Normally this consists of a fun puzzle with a mathematical bent that the club discusses and tries to solve.
-- President, WPI Pi Mu Epsilon Massachusetts Alpha Math Honors Society (May 2022 - Present)
+- President, WPI Pi Mu Epsilon Massachusetts Alpha Math Honors Society (May 2022 - May 2023)
 	 - Vice President January 2022 - May 2022, Member April 2021 - January 2022
