@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming PhD Student at Northeastern University Department of Mathematics, planning the [Northeastern University Robust Autonomy Lab (NEURAL)](https://neural.lab.northeastern.edu/) under Professor David Rosen in Fall 2023. I am interested in exploring the depths of mathematical optimization and its applications. Outside of mathematics, I like watching movies and going hiking through New England.
+I am an incoming PhD Student at Northeastern University Department of Mathematics, planning to join the [Northeastern University Robust Autonomy Lab (NEURAL)](https://neural.lab.northeastern.edu/) under Professor David Rosen in Fall 2023. I am interested in exploring the depths of mathematical optimization and its applications. Outside of mathematics, I like watching movies and going hiking through New England.
 
 ## Education
 - PhD in Mathematics, Northeastern University. Fall 2023 - Present
