@@ -27,18 +27,20 @@ I am an incoming PhD Student at Northeastern University Department of Mathematic
 
 ## Research Interests
 
-- **Mathematical Optimization:** Integer programming, Fractional Programming, Gradient Descent Algorithms
+- **Mathematical Optimization:** Descent Algorithms, Convex Optimization, Integer and Fractional Programming
+- **Machine Learning:** Neural networks as functional approximators, data interpolation, data analysis
 - **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
-- **Machine Learning:** Neural networks as functional approximators
 
 
 ## Publications
+- Larson, D.M., Bungula, W., Lee, A., Stockdill, A., McKean, C., **Miller, F. I.**, Davis, K., Erickson, R.A. and Hlavacek, E. (May 2023), [Reconstructing missing data by comparing interpolation techniques: Applications for long-term water quality data](https://doi.org/10.1002/lom3.10556). *Limnology and Oceanography: Methods*. https://doi.org/10.1002/lom3.10556
+- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp. (April 2023) "[Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534),"
 - Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving. *ELife*, 10, e70873. [Link](https://doi.org/10.7554/eLife.70873)
-- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, "[Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534),"
+
 
 # Under Review
 - Larson DM, Bungula W, Stockdill A, McKean C, Lee A, **Miller, F. I.**, Davis K., in review, U.S. Geological Survey and *PLOS Computational Biology*. Quantifying ecosystem states and state transitions of the Upper Mississippi River using topological data analysis.  
-- Larson DM, Bungula W, Lee A, Stockdill A, McKean C, **Miller, F. I.**, Davis K, Erickson R, Hlavecek E. in review, U.S. Geological Survey and *Limnology and Oceanography: Methods*. Reconstructing missing data by comparing common interpolation techniques: applications for long-term water quality data and beyond.  
+
 
 
 ## Presentations
