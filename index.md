@@ -33,7 +33,7 @@ I am an incoming PhD Student at Northeastern University Department of Mathematic
 
 
 ## Publications
-- Larson, D.M., Bungula, W., Lee, A., Stockdill, A., McKean, C., **Miller, F. I.**, Davis, K., Erickson, R.A. and Hlavacek, E. (May 2023), [Reconstructing missing data by comparing interpolation techniques: Applications for long-term water quality data](https://doi.org/10.1002/lom3.10556). *Limnology and Oceanography: Methods*. https://doi.org/10.1002/lom3.10556
+- Larson, D.M., Bungula, W., Lee, A., Stockdill, A., McKean, C., **Miller, F. I.**, Davis, K., Erickson, R.A. and Hlavacek, E. (May 2023), [Reconstructing missing data by comparing interpolation techniques: Applications for long-term water quality data](https://doi.org/10.1002/lom3.10556). *Limnology and Oceanography: Methods*. [Link](https://doi.org/10.1002/lom3.10556)
 - **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp. (April 2023) "[Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534),"
 - Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving. *ELife*, 10, e70873. [Link](https://doi.org/10.7554/eLife.70873)
 
