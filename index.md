@@ -15,16 +15,14 @@ I am a PhD Student at Northeastern University Department of Mathematics, plannin
 
 
 ## Research Interests
-
-	- **Mathematical Optimization:** Descent Algorithms, Convex Optimization, Integer and Fractional Programming
-	- **Machine Learning:** Neural networks as functional approximators, data interpolation, data analysis
-	- **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
+- **Mathematical Optimization:** Descent Algorithms, Convex Optimization, Integer and Fractional Programming
+- **Machine Learning:** Neural networks as functional approximators, data interpolation, data analysis
+- **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
 
 ## Skills
-
-	- Programming Languages: Python, Julia, MATLAB, R, SQL, LaTeX
-		- Packages: pandas, numpy, matplotlib, scikit, gurobi, tensorflow, pytorch
-	- Applications: Github, Slurm, Microsoft Office, Google Suite
+- Programming Languages: Python, Julia, MATLAB, R, SQL, LaTeX
+	- Packages: pandas, numpy, matplotlib, scikit, gurobi, tensorflow, pytorch
+- Applications: Github, Slurm, Microsoft Office, Google Suite
 
 
 *Selected Courses:*
