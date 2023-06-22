@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming PhD Student at Northeastern University Department of Mathematics, planning to join the [Northeastern University Robust Autonomy Lab (NEURAL)](https://neural.lab.northeastern.edu/) under Professor David Rosen in Fall 2023. I am interested in exploring the depths of mathematical optimization and its applications. Outside of mathematics, I like watching movies and going hiking through New England.
+I am a PhD Student at Northeastern University Department of Mathematics, planning to join the [Northeastern University Robust Autonomy Lab (NEURAL)](https://neural.lab.northeastern.edu/) under Professor David Rosen in Fall 2023. I am interested in exploring the depths of mathematical optimization and its applications. Outside of mathematics, I like watching movies and going hiking through New England.
 
 ## Education
 - PhD in Mathematics, Northeastern University. Fall 2023 - Present
@@ -14,6 +14,17 @@ I am an incoming PhD Student at Northeastern University Department of Mathematic
 	- Major Qualifying Project (MQP) (Senior Thesis): ["Deep Learning for Reflected Backwards Stochastic Differential Equations"](https://digital.wpi.edu/concern/student_works/js956j933?locale=en), Advisor: Stephan Sturm. Awarded MQP Departmental Honorable Mention
 
 
+## Research Interests
+
+	- **Mathematical Optimization:** Descent Algorithms, Convex Optimization, Integer and Fractional Programming
+	- **Machine Learning:** Neural networks as functional approximators, data interpolation, data analysis
+	- **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
+
+## Skills
+
+	- Programming Languages: Python, Julia, MATLAB, R, SQL, LaTeX
+		- Packages: pandas, numpy, matplotlib, scikit, gurobi, tensorflow, pytorch
+	- Applications: Github, Slurm, Microsoft Office, Google Suite
 
 
 *Selected Courses:*
@@ -25,15 +36,11 @@ I am an incoming PhD Student at Northeastern University Department of Mathematic
 - **Data Science** -  Advanced Prescriptive Analytics, Modeling and Data Analysis, Introduction to Data Science, Computational Data Intelligence
 
 
-## Research Interests
 
-- **Mathematical Optimization:** Descent Algorithms, Convex Optimization, Integer and Fractional Programming
-- **Machine Learning:** Neural networks as functional approximators, data interpolation, data analysis
-- **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
 
 
 ## Publications
-- Larson, D.M., Bungula, W., Lee, A., Stockdill, A., McKean, C., **Miller, F. I.**, Davis, K., Erickson, R.A. and Hlavacek, E. (May 2023), [Reconstructing missing data by comparing interpolation techniques: Applications for long-term water quality data](https://doi.org/10.1002/lom3.10556). *Limnology and Oceanography: Methods*. [Link](https://doi.org/10.1002/lom3.10556)
+- Larson, D.M., Bungula, W., Lee, A., Stockdill, A., McKean, C., **Miller, F. I.**, Davis, K., Erickson, R.A. and Hlavacek, E. (May 2023), [Reconstructing missing data by comparing interpolation techniques: Applications for long-term water quality data](https://doi.org/10.1002/lom3.10556). *Limnology and Oceanography: Methods*.
 - Larson D.M., Bungula W., McKean C., Stockdill A., Lee A., **Miller, F. I.**, Davis, K. (June 2023) [Quantifying ecosystem states and state transitions of the Upper Mississippi River System using topological data analysis](https://doi.org/10.1371/journal.pcbi.1011147). *PLoS Computational Biology* 19(6): e1011147.
 - Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). [Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving](https://doi.org/10.7554/eLife.70873). *ELife*, 10, e70873.
 
