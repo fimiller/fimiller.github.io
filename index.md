@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a PhD Student at Northeastern University Department of Mathematics in the [Northeastern University Robust Autonomy Lab (NEURAL)](https://neural.lab.northeastern.edu/) under Professor David Rosen. I am interested in exploring the depths of mathematical optimization and its applications. Outside of mathematics, I like watching movies and going hiking through New England.
+I am a PhD Student at Northeastern University Department of Mathematics in the [Northeastern University Robust Autonomy Lab (NEURAL)](https://neural.lab.northeastern.edu/) under Professor David Rosen. I am interested in exploring the depths of mathematical optimization and its applications. In particular, I am exploring developing efficient algorithms to solve semi-algebraic optimization problems that arise in machine intelligence.
+
+Outside of mathematics, I like watching movies and going hiking through New England.
 
 ## Education
 - PhD in Mathematics, Northeastern University. Fall 2023 - Present
@@ -15,17 +17,23 @@ I am a PhD Student at Northeastern University Department of Mathematics in the [
 
 
 ## Research Interests
-- **Mathematical Optimization:** Descent Algorithms, Convex Optimization, Integer and Fractional Programming
-- **Machine Learning:** Neural networks as functional approximators, data interpolation, data analysis
-- **Stochastic Analysis:** Mathematical Finance, (Backwards) Stochastic Differential Equations
+My current research involves developing novel algorithms to solve large scale semialgebraic optimization problems. Towards this effort, I was awarded the [National Science Foundation Graduate Research Fellowship (NSF GRFP)](https://nsfgrfp.org/). To get a flavor of my research, check out my ["research proposal"](./assets/grfp_proposal.pdf) to the GRFP! In short, we hope to develop algorithms and software that can take a large scale polynomial optimization problem and construct and solve its associated SDP relaxation. One  key technique we are applying is the Lasserre / Sum of Squares hierarchy for polynomial optimization problems, which is a tool for solving polynomial optimization problems through a sequence of semidefinite relaxations.
+
+In addition, I am particularly interested in developing solutions where the problem data may be contaminated with outliers. Currently, many algorithms are brittle to outliers, but we hope to bridge this gap by developing robust algorithms for these problems.  
+
+As an undegraduate, I conducted research in public sector operations research. This involved applying mixed integer linear fractional programming to the problem of marginal shelter deployment for a city. Additionally, I researched deep learning techniques for determining the solution to a certain class of stochastic differential equations for the problem of option pricing in mathematical finance.
 
 ## Skills
 - Programming Languages: Python, Julia, MATLAB, R, SQL, LaTeX
-	- Packages: pandas, numpy, matplotlib, scikit, gurobi, tensorflow, pytorch
-- Applications: Github, Slurm, Microsoft Office, Google Suite
+	- Some of my favorite packages: pandas, numpy, matplotlib, scikit, gurobi, tensorflow, pytorch
+- Solvers: Gurobi, Mosek, COSMO, Clarabel
+- Applications: Github, Slurm, Overleaf, Microsoft Office, Google Suite
 
 
 *Selected Courses:*
+
+### As a graduate student at Northeastern University
+- **Mathematics** - Optimization and Complexity, Analysis 2, Algebra 1, Readings in Random Matrix Theory and Compressed Sensing, Geometry and Applications of Tensors
 
 ### As an undergraduate at Worcester Polytechnic Institute:
 
@@ -40,15 +48,14 @@ I am a PhD Student at Northeastern University Department of Mathematics in the [
 ## Publications
 - Larson, D.M., Bungula, W., Lee, A., Stockdill, A., McKean, C., **Miller, F. I.**, Davis, K., Erickson, R.A. and Hlavacek, E. (May 2023), [Reconstructing missing data by comparing interpolation techniques: Applications for long-term water quality data](https://doi.org/10.1002/lom3.10556). *Limnology and Oceanography: Methods*.
 - Larson D.M., Bungula W., McKean C., Stockdill A., Lee A., **Miller, F. I.**, Davis, K. (June 2023) [Quantifying ecosystem states and state transitions of the Upper Mississippi River System using topological data analysis](https://doi.org/10.1371/journal.pcbi.1011147). *PLoS Computational Biology* 19(6): e1011147.
+- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp. (April 2023) [Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534)
 - Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). [Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving](https://doi.org/10.7554/eLife.70873). *ELife*, 10, e70873.
 
 
-### Submitted Or Under Review
-- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp. (April 2023) [Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534)
-
 
 ## Presentations
-
+- Northeastern Graduate Student Seminar @ Northeastern
+	- Certifiable Estimation Through Semidefinite Programming, An Introduction to Mathematical Finance
 - Mathematical Finance and Stochastic Analysis Seminar @ WPI
 	- [Risk Indifference Pricing for American Put Options](https://www.wpi.edu/news/calendar/events/mathematical-sciences-department-financial-math-seminar-frederick-miller-wpi-student-risk)
 - WPI PhD Student Seminar, January 2023
@@ -70,6 +77,8 @@ I am a PhD Student at Northeastern University Department of Mathematics in the [
 	- Mathematical Sciences undergraduate program at WPI with prospective students
 
 ## Awards
+- National Science Foundation Graduate Research Fellowship (NSF GRFP)
+ 	 - Awarded three full years of funding for my doctoral research. Here is my [personal statement](./assets/grfp_personal.pdf).
 - [WPI Peer Learning Assistant of the Year 2023](https://www.wpi.edu/news/announcements/peer-learning-assistants-honored-student-recognition-awards-ceremony-0#:~:text=The%202023%20Peer%20Learning%20Assistant,Sciences%20Department%20for%20several%20years.)
 	- Also awarded Peer Learning Assistant of the year within the Mathematical Sciences Department
 - WPI MQP Award Departmental Honorable Mention for Senior Thesis
@@ -80,8 +89,10 @@ I am a PhD Student at Northeastern University Department of Mathematics in the [
 - WPI Presidential Scholarship (2019 - 2023)
 - Dean's List, WPI
 
-## Teaching Experience
-I served as Peer Learning Assistant (PLA) for the Mathematical Sciences Department at WPI from August 2020 to May 2023. This entails:
+## Teaching and Mentoring Experience
+From May 2024 to July 2024, I served as a mentor to two undergraduate students. Together, we explored how to perform large scale eigenvalue computations.
+
+Additionally, I served as Peer Learning Assistant (PLA) for the Mathematical Sciences Department at WPI from August 2020 to May 2023. This entails:
 1. Manage a section of 20 to 35 students in mathematical sciences courses at WPI
 2. Run a weekly discussion section reviewing lecture content
 3. Grade Homework & exams for the section working with a Professor and other PLAs and Teaching Assistants
@@ -95,6 +106,8 @@ I served as Peer Learning Assistant (PLA) for the Mathematical Sciences Departme
 
 
 ## Leadership
+- Lab Meeting Organizer, NEU-RAL (August 2023 - August 2024)
+	- Organized Lab Presentations for members of NEU-RAL to share their work.
 - President, WPI Math Club (April 2020 - March 2023)
 	- Lead meetings for WPI’s math club by finding an activity for our weekly math hour. Normally this consists of a fun puzzle with a mathematical bent that the club discusses and tries to solve.
 - President, WPI Pi Mu Epsilon Massachusetts Alpha Math Honors Society (May 2022 - May 2023)
