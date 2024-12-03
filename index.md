@@ -4,22 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a PhD Student at Northeastern University Department of Mathematics in the [Northeastern University Robust Autonomy Lab (NEURAL)](https://neural.lab.northeastern.edu/) under Professor David Rosen. I am interested in exploring the depths of mathematical optimization and its applications. In particular, I am exploring developing efficient algorithms to solve semi-algebraic optimization problems that arise in machine intelligence.
+I am a PhD Student at Northeastern University in the [Northeastern University Operations Reseaerch and Social Justice Lab](https://kaysemaass.wixsite.com/kayseleemaass/meet-the-team) under Professor Kayse Lee Maass. I am interested in exploring the depths of mathematical optimization and its applications. In particular, I am exploring developing optimization frameworks to improve decision making in problems of humanitarian concern.
 
 Outside of mathematics, I like watching movies and going hiking through New England.
 
 ## Education
-- PhD in Mathematics, Northeastern University. Fall 2023 - Present
-
+- PhD in Industrial Engineering, Northeastern University. Fall 2025 - Present
+- MS In Mathematics, Northeastern University, Fall 2023 - May 2025 (expected)
 - Bachelor of Science in Mathematical Sciences, Worcester Polytechnic Institute (WPI), August 2019 - May 2023. GPA: 3.92/4.0
 - Bachelor of Science in Data Science, Worcester Polytechnic Institute (WPI), August 2019 - May 2023. GPA: 3.92/4.0
 	- Major Qualifying Project (MQP) (Senior Thesis): ["Deep Learning for Reflected Backwards Stochastic Differential Equations"](https://digital.wpi.edu/concern/student_works/js956j933?locale=en), Advisor: Stephan Sturm. Awarded MQP Departmental Honorable Mention
 
 
 ## Research Interests
-My current research involves developing novel algorithms to solve large scale semialgebraic optimization problems. Towards this effort, I was awarded the [National Science Foundation Graduate Research Fellowship (NSF GRFP)](https://nsfgrfp.org/). To get a flavor of my research, check out my [research proposal](./assets/grfp_proposal.pdf) to the GRFP! In short, we hope to develop algorithms and software that can take a large scale polynomial optimization problem and construct and solve its associated SDP relaxation. One  key technique we are applying is the Lasserre / Sum of Squares hierarchy for polynomial optimization problems, which is a tool for solving polynomial optimization problems through a sequence of semidefinite relaxations.
-
-In addition, I am particularly interested in developing solutions where the problem data may be contaminated with outliers. Currently, many algorithms are brittle to outliers, but we hope to bridge this gap by developing robust algorithms for these problems.  
+My current research involves developing operations research based approaches to problems in the public sector of high humanitarian concern. In short, we hope to develop optimzation models, algorithms, and software that can realistically model and help inform policy decision.
 
 As an undegraduate, I conducted research in public sector operations research. This involved applying mixed integer linear fractional programming to the problem of marginal shelter deployment for a city. Additionally, I researched deep learning techniques for determining the solution to a certain class of stochastic differential equations for the problem of option pricing in mathematical finance.
 
@@ -33,7 +31,7 @@ As an undegraduate, I conducted research in public sector operations research. T
 *Selected Courses:*
 
 ### As a graduate student at Northeastern University
-- **Mathematics** - Optimization and Complexity, Analysis 2, Algebra 1, Readings in Random Matrix Theory and Compressed Sensing, Geometry and Applications of Tensors
+- **Mathematics** - Optimization and Complexity, Analysis 2, Algebra 1, Algebra 2, Readings in Random Matrix Theory and Compressed Sensing, Geometry and Applications of Tensors, Readings in Real Algebraic Geometry, Sparse Optimization 
 
 ### As an undergraduate at Worcester Polytechnic Institute:
 
@@ -90,7 +88,7 @@ As an undegraduate, I conducted research in public sector operations research. T
 - Dean's List, WPI
 
 ## Teaching and Mentoring Experience
-From May 2024 to July 2024, I served as a mentor to two undergraduate students. Together, we explored how to perform large scale eigenvalue computations.
+From May 2024 to July 2024, I served as a mentor to two undergraduate students. Together, we explored how to perform large scale eigenvalue computations, an environment where many traditional methods are not efficient enough.
 
 Additionally, I served as Peer Learning Assistant (PLA) for the Mathematical Sciences Department at WPI from August 2020 to May 2023. This entails:
 1. Manage a section of 20 to 35 students in mathematical sciences courses at WPI
@@ -106,8 +104,7 @@ Additionally, I served as Peer Learning Assistant (PLA) for the Mathematical Sci
 
 
 ## Leadership
-- Lab Meeting Organizer, NEU-RAL (August 2023 - August 2024)
-	- Organized Lab Presentations for members of NEU-RAL to share their work.
+- Member, Northeastern University College of Science PhD Student Council (Fall 2024 - Spring 2024)
 - President, WPI Math Club (April 2020 - March 2023)
 	- Lead meetings for WPI’s math club by finding an activity for our weekly math hour. Normally this consists of a fun puzzle with a mathematical bent that the club discusses and tries to solve.
 - President, WPI Pi Mu Epsilon Massachusetts Alpha Math Honors Society (May 2022 - May 2023)
