@@ -10,28 +10,29 @@ Outside of mathematics, I like watching movies and going hiking through New Engl
 
 ## Education
 - PhD in Industrial Engineering, Northeastern University. Fall 2025 - Present
-- MS In Mathematics, Northeastern University, Fall 2023 - May 2025 (expected)
+- MS In Mathematics, Northeastern University, Fall 2023 - August 2025
 - Bachelor of Science in Mathematical Sciences, Worcester Polytechnic Institute (WPI), August 2019 - May 2023. GPA: 3.92/4.0
 - Bachelor of Science in Data Science, Worcester Polytechnic Institute (WPI), August 2019 - May 2023. GPA: 3.92/4.0
 	- Major Qualifying Project (MQP) (Senior Thesis): ["Deep Learning for Reflected Backwards Stochastic Differential Equations"](https://digital.wpi.edu/concern/student_works/js956j933?locale=en), Advisor: Stephan Sturm. Awarded MQP Departmental Honorable Mention
 
 
 ## Research Interests
-My current research involves developing operations research based approaches to problems in the public sector of high humanitarian concern. In short, we hope to develop optimzation models, algorithms, and software that can realistically model and help inform policy decision.
+My current research involves developing operations research based approaches to problems in the public sector of high humanitarian concern. In short, we hope to develop optimzation models, algorithms, and software that can realistically model and help inform policy decision. Specifically, I am developing bilevel network interdiction models and solution algorithms to improve decision making and outcomes to best serve victims of human trafficking.
 
 As an undegraduate, I conducted research in public sector operations research. This involved applying mixed integer linear fractional programming to the problem of marginal shelter deployment for a city. Additionally, I researched deep learning techniques for determining the solution to a certain class of stochastic differential equations for the problem of option pricing in mathematical finance.
 
 ## Skills
-- Programming Languages: Python, Julia, MATLAB, R, SQL, LaTeX
-	- Some of my favorite packages: pandas, numpy, matplotlib, scikit, gurobi, tensorflow, pytorch
-- Solvers: Gurobi, Mosek, COSMO, Clarabel
-- Applications: Github, Slurm, Overleaf, Microsoft Office, Google Suite
+- Programming Languages: Python, Julia, MATLAB, R, SQL, Java, LaTeX
+	- Some of my favorite packages: pandas, numpy, matplotlib, scikit, gurobi, pytorch
+- Solvers: Gurobi, HiGHS, SCS, Mosek, COSMO, Clarabel
+- Applications: Git, Github, Slurm, Overleaf, Microsoft Office, Google Suite
 
 
 *Selected Courses:*
 
 ### As a graduate student at Northeastern University
 - **Mathematics** - Optimization and Complexity, Analysis 2, Algebra 1, Algebra 2, Readings in Random Matrix Theory and Compressed Sensing, Geometry and Applications of Tensors, Readings in Real Algebraic Geometry, Sparse Optimization 
+- **Operations Research** - Network Analysis and Advanced Optimization, Probabilistic Operations Research
 
 ### As an undergraduate at Worcester Polytechnic Institute:
 
@@ -43,7 +44,9 @@ As an undegraduate, I conducted research in public sector operations research. T
 
 
 
-## Publications
+## Publications and Preprints
+- Kumar, R, **Miller, F. I.**, Nasralah, H, Sturm, S, Risk-indifference Pricing of American-style Contingent Claims (August 2024) https://arxiv.org/abs/2409.00095.
+- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, Optimizing the Benefit to Cost Ratio for Public Sector Decision Making, (April 2023) https://arxiv.org/abs/2212.04534.
 - Larson, D.M., Bungula, W., Lee, A., Stockdill, A., McKean, C., **Miller, F. I.**, Davis, K., Erickson, R.A. and Hlavacek, E. (May 2023), [Reconstructing missing data by comparing interpolation techniques: Applications for long-term water quality data](https://doi.org/10.1002/lom3.10556). *Limnology and Oceanography: Methods*.
 - Larson D.M., Bungula W., McKean C., Stockdill A., Lee A., **Miller, F. I.**, Davis, K. (June 2023) [Quantifying ecosystem states and state transitions of the Upper Mississippi River System using topological data analysis](https://doi.org/10.1371/journal.pcbi.1011147). *PLoS Computational Biology* 19(6): e1011147.
 - **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp. (April 2023) [Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534)
@@ -76,7 +79,7 @@ As an undegraduate, I conducted research in public sector operations research. T
 
 ## Awards
 - National Science Foundation Graduate Research Fellowship (NSF GRFP)
- 	 - Awarded three full years of funding for my doctoral research. Here is my [personal statement](./assets/grfp_personal.pdf).
+ 	 - Awarded three full years of funding for my doctoral research
 - [WPI Peer Learning Assistant of the Year 2023](https://www.wpi.edu/news/announcements/peer-learning-assistants-honored-student-recognition-awards-ceremony-0#:~:text=The%202023%20Peer%20Learning%20Assistant,Sciences%20Department%20for%20several%20years.)
 	- Also awarded Peer Learning Assistant of the year within the Mathematical Sciences Department
 - WPI MQP Award Departmental Honorable Mention for Senior Thesis
