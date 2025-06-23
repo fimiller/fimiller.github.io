@@ -45,11 +45,10 @@ As an undegraduate, I conducted research in public sector operations research. T
 
 
 ## Publications and Preprints
-- Kumar, R, **Miller, F. I.**, Nasralah, H, Sturm, S, Risk-indifference Pricing of American-style Contingent Claims (August 2024) https://arxiv.org/abs/2409.00095.
-- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, Optimizing the Benefit to Cost Ratio for Public Sector Decision Making, (April 2023) https://arxiv.org/abs/2212.04534.
+- Kumar, R, **Miller, F. I.**, Nasralah, H, Sturm, S, Risk-indifference Pricing of American-style Contingent Claims (August 2024) [https://arxiv.org/abs/2409.00095](https://arxiv.org/abs/2409.00095).
+- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp, Optimizing the Benefit to Cost Ratio for Public Sector Decision Making, (April 2023) [https://arxiv.org/abs/2212.04534](https://arxiv.org/abs/2212.04534).
 - Larson, D.M., Bungula, W., Lee, A., Stockdill, A., McKean, C., **Miller, F. I.**, Davis, K., Erickson, R.A. and Hlavacek, E. (May 2023), [Reconstructing missing data by comparing interpolation techniques: Applications for long-term water quality data](https://doi.org/10.1002/lom3.10556). *Limnology and Oceanography: Methods*.
 - Larson D.M., Bungula W., McKean C., Stockdill A., Lee A., **Miller, F. I.**, Davis, K. (June 2023) [Quantifying ecosystem states and state transitions of the Upper Mississippi River System using topological data analysis](https://doi.org/10.1371/journal.pcbi.1011147). *PLoS Computational Biology* 19(6): e1011147.
-- **Miller, F. I.**, Y. Kaya, G. L. Dimas, R. Konrad, K. L. Maass, A. C. Trapp. (April 2023) [Optimizing the Benefit to Cost Ratio for Public Sector Decision Making](https://arxiv.org/abs/2212.04534)
 - Hoehn, K. B., Turner, J. S., **Miller, F. I.**, Jiang, R., Pybus, O. G., Ellebedy, A. H., & Kleinstein, S. H. (2021). [Human B cell lineages associated with germinal centers following influenza vaccination are measurably evolving](https://doi.org/10.7554/eLife.70873). *ELife*, 10, e70873.
 
 
